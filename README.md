@@ -10,24 +10,28 @@
 
 ## 🔧 Tech Stack
 
-### 🧠 Programming & Query
-Python • SQL • PySpark
-
-### 🗄 Databases
-PostgreSQL • MySQL • SQLite • Data Lakes
-
-### ⚙️ Data Engineering
-Spark • Kafka • Airflow • ETL/ELT • Orchestration • Streaming
+### 🧠 Languages & Query
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgresql,mysql,sqlite" />
+</p>
 
 ### 📊 Analytics & BI
-Power BI • Semantic Models • DAX • Visualization Systems
-
-### 🛠 DevOps & Tools
-Docker • Linux • Git/GitHub • VS Code • CI/CD (basic)
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,powerbi,spark,kafka,airflow,docker,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=powerbi" />
 </p>
+
+### ⚙️ Data Engineering
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spark,kafka,airflow" />
+</p>
+
+### 🛠️ DevOps / Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,fastapi" />
+</p>
+
+**Core tools:** Python • SQL • Spark • Airflow • Power BI • Docker • Kafka
+
 
 
 ---
