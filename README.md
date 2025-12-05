@@ -2,7 +2,7 @@
 <h3 align="center">Data Analytics & Engineering</h3>
 
 <p align="center">
-  <a href="[(https://www.linkedin.com/in/sanzhar-sabyr-13487b243/ru/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3sVCs6wpQCyffaTmM8whIw%3D%3D)">LinkedIn</a> •
+  <a href="[https://www.linkedin.com/in/sanzhar-sabyr-13487b243/ru/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3sVCs6wpQCyffaTmM8whIw%3D%3D">LinkedIn</a> •
   <a href="mailto:svbyrs@gmail.com">Email</a>
 </p>
 
