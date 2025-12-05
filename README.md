@@ -51,13 +51,6 @@ Docker • Linux • Git/GitHub • VS Code • CI/CD (basic)
 - Real-time and batch processing  
 - Infrastructure for analytics projects  
 
----
-
-## 📈 GitHub Overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanzharSabyr&show_icons=true&theme=github_dark" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanzharSabyr&layout=compact&theme=github_dark" height="160"/>
-</p>
 
 ---
 
